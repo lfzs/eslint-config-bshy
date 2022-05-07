@@ -2,6 +2,6 @@
 
 原生 JavaScript/Node 项目使用
 
-TODO
+## 可用的 Rules
 
-- 增加 rules
+[Rules](https://eslint.org/docs/rules/)
