@@ -1,0 +1,14 @@
+{
+  "name": "@bshy/eslint-config-vanilla",
+  "version": "0.0.1",
+  "main": "index.js",
+  "files": [
+    ".eslintrc.json",
+    "index.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "license": "ISC"
+}

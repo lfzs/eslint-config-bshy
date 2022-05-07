@@ -1,0 +1,7 @@
+{
+  "name": "eslint-config-bshy",
+  "private": true,
+  "description": "eslint 配置文件",
+  "license": "ISC",
+  "homepage": "https://github.com/lfzs/eslint-config-bshy#readme"
+}
